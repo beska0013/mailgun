@@ -1,0 +1,20 @@
+{
+  "name": "mailgun",
+  "version": "1.0.0",
+  "description": "sending emails from mailgun",
+  "main": "script.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mailgun.js": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mailgun",
+    "email"
+  ],
+  "author": "Beso Gugushvili <gugushvilibesik@gmail.com>",
+  "license": "ISC"
+}
